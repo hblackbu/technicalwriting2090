@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-intro.warmup" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Warm Up</title>
+
+  <p> Typing the text and such </p>
+    <me> \frac{x}{3}=e^y</me>
+    <definition xml:id="def-document">
+      <statement>
+        <p>
+          A document is a...
+        </p>
+      </statement>
+    </definition>
+<p> Look at <xref ref="def-document"/></p>
+  <proof>
+    <p>
+      This will be a drop down.
+    </p>
+  </proof>
+  <exercise>
+    <p>Test exercise</p>
+  </exercise>
+</section>
